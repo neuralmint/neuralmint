@@ -6,10 +6,10 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   handle:    neuralmint
   location:  somewhere on the internet
-  languages: Python, TypeScript, JavaScript, Solidity, Go, Bash
-  tools:     Web3, FastAPI, React, Node.js, Docker, GH CLI
-  focus:     automation, crypto infra, CLI tools, dev tooling
-  vibe:      ship fast, break things, learn faster
+  languages: all of them :)
+  tools:     all of these too :)
+  focus:     whatever benefits everyone
+  vibe:      idk lol just code n chill
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
