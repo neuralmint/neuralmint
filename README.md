@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,100:2a1f4d&text=neuralmint&fontSize=64&fontColor=ffffff&fontAlignY=42&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,100:2a1f4d&section=header" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <code>make it run&nbsp;&nbsp;·&nbsp;&nbsp;make it fast&nbsp;&nbsp;·&nbsp;&nbsp;make it correct</code>
+  <code>make it run</code>&nbsp;&nbsp;<code>make it fast</code>&nbsp;&nbsp;<code>make it correct</code>
 </div>
 
 <br/><br/>
