@@ -6,6 +6,12 @@
   <sub><i>somewhere between the kernel and the model</i></sub>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/decode-137_t%2Fs_on_a_GTX_1060-2dd4a7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/context-32k-8b7cff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/PPL-22.96-8b7cff?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
 <br/>
 
 <div align="center">
